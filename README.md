@@ -12,4 +12,4 @@ Give
 
 for help.
 
-This must be run on (one of) the controller node(s).
+This must be run on (one of) the OpenStack controller node(s).
